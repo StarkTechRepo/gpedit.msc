@@ -1,7 +1,7 @@
 @echo off
 setlocal
 chcp 65001 > nul
-color 0B
+color 30
 title https://github.com/OtaconEvil
 
 REM Comprobar si se tienen privilegios de administrador
